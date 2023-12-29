@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-28T12:06:08 IST" name="Default suite" finished-at="2023-12-28T12:06:40 IST" duration-ms="31617">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T12:06:08 IST" name="Default test" finished-at="2023-12-28T12:06:40 IST" duration-ms="31617">
+      <class name="miniproject.Selectahotel">
+        <test-method signature="browserLaunch()[pri:1, instance:miniproject.Selectahotel@41a0aa7d]" started-at="2023-12-28T12:06:08 IST" name="browserLaunch" finished-at="2023-12-28T12:06:36 IST" duration-ms="27592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="viewplandploices()[pri:2, instance:miniproject.Selectahotel@41a0aa7d]" started-at="2023-12-28T12:06:36 IST" name="viewplandploices" finished-at="2023-12-28T12:06:38 IST" duration-ms="2315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewplandploices -->
+        <test-method signature="takescreenshot()[pri:3, instance:miniproject.Selectahotel@41a0aa7d]" started-at="2023-12-28T12:06:38 IST" name="takescreenshot" finished-at="2023-12-28T12:06:39 IST" duration-ms="850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takescreenshot -->
+        <test-method signature="closeview()[pri:4, instance:miniproject.Selectahotel@41a0aa7d]" started-at="2023-12-28T12:06:39 IST" name="closeview" finished-at="2023-12-28T12:06:39 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeview -->
+        <test-method signature="selectroom()[pri:5, instance:miniproject.Selectahotel@41a0aa7d]" started-at="2023-12-28T12:06:39 IST" name="selectroom" finished-at="2023-12-28T12:06:40 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectroom -->
+      </class> <!-- miniproject.Selectahotel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
